@@ -8,8 +8,8 @@ import Layout from './layout'
 const netlifyIdentity = require('netlify-identity-widget')
 
 const NETLIFY_FUNC =
-  'gatsby-netlify-snipcart.netlify.com/.netlify/functions'
-const NETLIFY_URL = 'https://gatsby-netlify-snipcart.netlify.com'
+  'frosty-golick-42f3c1.netlify.com/.netlify/functions'
+const NETLIFY_URL = 'https://frosty-golick-42f3c1.netlify.com'
 
 export default class Product extends React.Component {
   constructor(props) {
